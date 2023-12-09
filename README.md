@@ -1,4 +1,5 @@
 ![Your GIF Title](ezgif.com-video-to-gif.gif)
+---
 
 
 #This is Tansim Aktar Rinky...
@@ -7,6 +8,12 @@ I am a Web Developer Based in Bangladesh....
 - 🔭 I’m currently working on Web Applications
 - 🌱 I’m currently learning Next.js
 - 📫 How to reach me: email address: tansimrinkybindu@gmail.com
+---
+
+
+##Skills
+- HTML/CSS ![HTML/CSS Logo]([link_to_html_css_logo.png](https://i.ibb.co/gM2Y9Yd/png-transparent-logo-html-html5.png))
+
 
 
 <!--
