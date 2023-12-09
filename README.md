@@ -6,7 +6,7 @@ I am a Web Developer Based in Bangladesh....
 
 - 🔭 I’m currently working on Web Applications
 - 🌱 I’m currently learning Next.js
-- 📫 How to reach me: [Email me](tansimrinkybindu@gmail.com)
+- 📫 How to reach me: email address: tansimrinkybindu@gmail.com
 
 
 <!--
