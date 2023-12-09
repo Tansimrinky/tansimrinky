@@ -4,6 +4,9 @@
 #This is Tansim Aktar Rinky...
 I am a Web Developer Based in Bangladesh....
 
+- 🔭 I’m currently working on Web Applications
+- 🌱 I’m currently learning Next.js
+- 📫 How to reach me: [Email me](tansimrinkybindu@gmail.com)
 
 
 <!--
