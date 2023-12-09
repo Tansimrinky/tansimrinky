@@ -11,8 +11,8 @@ I am a Web Developer Based in Bangladesh....
 ---
 
 
-##Skills
-- HTML/CSS ![HTML/CSS Logo]([link_to_html_css_logo.png](https://i.ibb.co/gM2Y9Yd/png-transparent-logo-html-html5.png))
+## <p>Skills:</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,figma,mongodb,react,firebase,nodejs,nextjs)](https://skillicons.dev)
 
 
 
